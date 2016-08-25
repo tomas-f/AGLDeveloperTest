@@ -1,0 +1,10 @@
+C:\Code\AGLDeveloperTest\AGLDeveloperTest.UI.Core\bin\Debug\AGLDeveloperTest.UI.Core.dll
+C:\Code\AGLDeveloperTest\AGLDeveloperTest.UI.Core\bin\Debug\AGLDeveloperTest.UI.Core.pdb
+C:\Code\AGLDeveloperTest\AGLDeveloperTest.UI.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Code\AGLDeveloperTest\AGLDeveloperTest.UI.Core\bin\Debug\System.Web.Http.dll
+C:\Code\AGLDeveloperTest\AGLDeveloperTest.UI.Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\Code\AGLDeveloperTest\AGLDeveloperTest.UI.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Code\AGLDeveloperTest\AGLDeveloperTest.UI.Core\bin\Debug\System.Web.Http.xml
+C:\Code\AGLDeveloperTest\AGLDeveloperTest.UI.Core\bin\Debug\System.Net.Http.Formatting.xml
+C:\Code\AGLDeveloperTest\AGLDeveloperTest.UI.Core\obj\Debug\AGLDeveloperTest.UI.Core.dll
+C:\Code\AGLDeveloperTest\AGLDeveloperTest.UI.Core\obj\Debug\AGLDeveloperTest.UI.Core.pdb

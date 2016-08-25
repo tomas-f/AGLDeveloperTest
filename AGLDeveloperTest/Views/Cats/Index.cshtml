@@ -1,0 +1,19 @@
+﻿<body>
+    <h1>
+        AGL Developer Test - Tomas Fantin
+    </h1>
+    <ul>
+       @foreach (var catVm in Model)
+       {
+        <li><b>@catVm.Gender</b>
+           <ul>
+            @foreach (var name in catVm.CatNames)
+            {
+                <li>@name</li>
+            }
+            </ul>
+	    </li>
+       }
+    </ul>
+</body>
+
